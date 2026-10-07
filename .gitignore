@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+.vscode/
+desktop.ini
+.env
+.env.*
+registrations.pdf
+report.pdf
